@@ -1,0 +1,3 @@
+# aydemir
+
+## Projenin amacı
